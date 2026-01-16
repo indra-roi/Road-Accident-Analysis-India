@@ -64,7 +64,8 @@ The goal is to provide data-driven insights and safety recommendations for gover
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard]<img width="1183" height="671" alt="Screenshot 2026-01-16 124607" src="https://github.com/user-attachments/assets/30e51bbd-12aa-480c-ad78-d80fe4bbfc57" />
+![Dashboard]<img width="1192" height="676" alt="image" src="https://github.com/user-attachments/assets/fffd16f7-32fe-4333-83c2-f4c5ed1f8705" />
+
 
 
 ---
