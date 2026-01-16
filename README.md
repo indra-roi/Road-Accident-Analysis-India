@@ -1,5 +1,5 @@
 # 🚦 Road Accident Analysis & Safety Dashboard
-##📌 Project Summary
+## 📌 Project Summary
 
 This project presents an end-to-end data analytics solution to understand why, when, and where road accidents occur, to support data-driven road safety decisions by government authorities.
 
@@ -17,7 +17,7 @@ Reduce fatalities and casualties
 
 Prioritize infrastructure and enforcement efforts
 
-##🗂 Dataset Overview
+## 🗂 Dataset Overview
 
 Each row represents one road accident
 
@@ -35,7 +35,7 @@ Vehicles involved
 
 Casualties and fatalities
 
-##🛠 Tools & Technologies
+## 🛠 Tools & Technologies
 
 Python: Pandas, Matplotlib, Seaborn
 
@@ -45,7 +45,7 @@ Excel: Initial data validation
 
 GitHub: Version control and documentation
 
-##🔍 Analysis Performed
+## 🔍 Analysis Performed
 
 Data cleaning and standardization (location, time, categories)
 
@@ -59,7 +59,7 @@ Location-based hotspot analysis
 
 Severity and casualty impact analysis
 
-##📊 Power BI Dashboard Highlights
+## 📊 Power BI Dashboard Highlights
 KPI Cards
 
 Total Accidents
@@ -88,10 +88,8 @@ City
 
 Weather Conditions
 
-📸 Dashboard Preview:
-(See image below)
 
-##📈 Key Insights
+## 📈 Key Insights
 
 A small number of states and cities contribute to the majority of accidents
 
@@ -101,7 +99,7 @@ One accident often results in multiple casualties
 
 Poor weather and high-speed zones significantly increase accident severity
 
-##🚧 Data-Driven Recommendations
+## 🚧 Data-Driven Recommendations
 
 Target high-risk locations with infrastructure upgrades
 
@@ -116,10 +114,10 @@ Enhance accident data collection and reporting quality
 
 
 ## 📸 Dashboard Preview
-![Dashboard]<img width="1192" height="676" alt="image" src="https://github.com/user-attachments/assets/fffd16f7-32fe-4333-83c2-f4c5ed1f8705" />
+<img width="1192" height="676" alt="image" src="https://github.com/user-attachments/assets/fffd16f7-32fe-4333-83c2-f4c5ed1f8705" />
 
 
-🚀 Future Enhancements
+## 🚀 Future Enhancements
 
 Predictive accident risk modeling
 
